@@ -29,7 +29,14 @@
   </url>
   
   <url>
-    <loc>https://inacode.id/artikel/my-first-post/</loc>
+    <loc>https://inacode.id/tags/berita/</loc>
+    <lastmod>2020-06-13T13:26:13+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/tags/pemula/</loc>
     <lastmod>2020-06-13T13:26:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -37,6 +44,27 @@
   
   <url>
     <loc>https://inacode.id/video/my-first-post/</loc>
+    <lastmod>2020-06-13T13:26:13+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/artikel/trakteer/</loc>
+    <lastmod>2020-06-13T13:26:13+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/tags/</loc>
+    <lastmod>2020-06-13T13:26:13+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/tags/umum/</loc>
     <lastmod>2020-06-13T13:26:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -57,12 +85,6 @@
   
   <url>
     <loc>https://inacode.id/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://inacode.id/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
