@@ -12,11 +12,30 @@
     
     
     <item>
+      <title>Seri Belajar</title>
+      <link>https://inacode.id/seri-belajar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://inacode.id/seri-belajar/</guid>
+      <description>&amp;ldquo;dari zero ke hero #upgradeskill&amp;rdquo; Disini kamu bisa mulai belajar dengan topik yang sudah disusun sesuai kategori. Saat ini kami masih mengembangkan bagian ini, untuk mendapatkan update terbaru silahkan mengisi form berlangganan milis kami</description>
+    </item>
+    
+    <item>
+      <title>Tentang Kami</title>
+      <link>https://inacode.id/tentang-kami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://inacode.id/tentang-kami/</guid>
+      <description>di Inacode kamu bisa belajar mulai dari ilmu komputer, belajar koding, sampai berita terbaru seputar teknologi komputer, dan semua bisa kamu dapatkan secara GRATIS.
+Support kami agar terus berkarya dengan melakukan donasi melalui Trakteer</description>
+    </item>
+    
+    <item>
       <title>Posting Perdana</title>
-      <link>https://inacode.id/article/my-first-post/</link>
+      <link>https://inacode.id/artikel/my-first-post/</link>
       <pubDate>Sat, 13 Jun 2020 13:26:13 +0800</pubDate>
       
-      <guid>https://inacode.id/article/my-first-post/</guid>
+      <guid>https://inacode.id/artikel/my-first-post/</guid>
       <description>Hello World</description>
     </item>
     
@@ -36,15 +55,6 @@
       
       <guid>https://inacode.id/berlangganan/</guid>
       <description>&amp;ldquo;dari zero ke hero #upgradeskill&amp;rdquo; Untuk mendapatkan informasi terbaru kursus online, tutorial serta update terbaru, yuk join milis inacode dengan mengisi form milis ini</description>
-    </item>
-    
-    <item>
-      <title>Seri Belajar</title>
-      <link>https://inacode.id/seri-belajar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://inacode.id/seri-belajar/</guid>
-      <description>&amp;ldquo;dari zero ke hero #upgradeskill&amp;rdquo; Disini kamu bisa mulai belajar dengan topik yang sudah disusun sesuai kategori. Saat ini kami masih mengembangkan bagian ini, untuk mendapatkan update terbaru silahkan mengisi form berlangganan milis kami</description>
     </item>
     
   </channel>
