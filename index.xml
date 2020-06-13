@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#upgradeskill #belajardirumah #belajarkomputer on Inacode Indonesia</title>
+    <link>https://inacode.id/</link>
+    <description>Recent content in #upgradeskill #belajardirumah #belajarkomputer on Inacode Indonesia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sat, 13 Jun 2020 13:26:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://inacode.id/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posting pertama</title>
+      <link>https://inacode.id/article/my-first-post/</link>
+      <pubDate>Sat, 13 Jun 2020 13:26:13 +0800</pubDate>
+      
+      <guid>https://inacode.id/article/my-first-post/</guid>
+      <description>Hello World</description>
+    </item>
+    
+    <item>
+      <title>Posting pertama</title>
+      <link>https://inacode.id/video/my-first-post/</link>
+      <pubDate>Sat, 13 Jun 2020 13:26:13 +0800</pubDate>
+      
+      <guid>https://inacode.id/video/my-first-post/</guid>
+      <description>Hello World</description>
+    </item>
+    
+    <item>
+      <title>Berlangganan</title>
+      <link>https://inacode.id/berlangganan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://inacode.id/berlangganan/</guid>
+      <description>&amp;ldquo;dari zero ke hero #upgradeskill&amp;rdquo; Untuk mendapatkan informasi terbaru kursus online, tutorial serta update terbaru, yuk join milis inacode dengan mengisi form milis ini</description>
+    </item>
+    
+    <item>
+      <title>Seri Belajar</title>
+      <link>https://inacode.id/seri-belajar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://inacode.id/seri-belajar/</guid>
+      <description>&amp;ldquo;dari zero ke hero #upgradeskill&amp;rdquo; Disini kamu bisa mulai belajar dengan topik yang sudah disusun sesuai kategori. Saat ini kami masih mengembangkan bagian ini, untuk mendapatkan update terbaru silahkan mengisi form berlangganan milis kami</description>
+    </item>
+    
+  </channel>
+</rss>
