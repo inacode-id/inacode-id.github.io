@@ -27,8 +27,19 @@
       
       <guid>https://inacode.id/tentang-kami/</guid>
       <description>di Inacode kamu bisa belajar mulai dari ilmu komputer, belajar koding, sampai berita terbaru seputar teknologi komputer, dan semua bisa kamu dapatkan secara GRATIS.
-Menjadi Kontributor Jika kamu tertarik untuk berbagi ilmu komputer, membuat artikel, video dan tutorial, silahkan hubungi kami. Semua source code dari website ini dapat diakses melalui repo github.
-Menjadi Donatur Kamu bisa mensupport inacode mulai dari lima ribu rupiah. Support kami agar terus berkarya dengan melakukan donasi melalui Trakteer</description>
+Menjadi Kontributor Jika kamu tertarik untuk berbagi ilmu komputer, membuat artikel, video dan tutorial, atau menemukan kesalahan di website ini berupa typo atau informasi yang salah (misleading), silahkan hubungi kami untuk bergabung. Semua source code dari website ini dapat diakses melalui repo github. Silahkan fork repo kami dan lakukan pull request.</description>
+    </item>
+    
+    <item>
+      <title>Istilah Komputer</title>
+      <link>https://inacode.id/daftar-istilah-komputer/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://inacode.id/daftar-istilah-komputer/</guid>
+      <description> Berikut adalah padanan istilah komputer dari bahasa Inggris ke bahasa Indonesia Jika kamu menemukan kesalahan, silahkan hubungi kami atau bergabung menjadi kontributor kami
+ A B C D E F G H  Hardware : Perangkat Keras   Lihat https://id.wikipedia.org/wiki/Perangkat_keras
+ I J K L M N O P Q R S  Software : Perangkat Lunak   Lihat https://id.wikipedia.org/wiki/Perangkat_lunak
+ T U V W X Y Z </description>
     </item>
     
     <item>
@@ -47,15 +58,6 @@ Menjadi Donatur Kamu bisa mensupport inacode mulai dari lima ribu rupiah. Suppor
       
       <guid>https://inacode.id/artikel/trakteer/</guid>
       <description>&lt;p&gt;Selain sebagai kontributor, kamu juga bisa mensupport kami dengan menjadi donatur. Cukup dengan lima ribu rupiah, kamu sudah membantu kami mengelola InaCode menjadi platform belajar komputer di Indonesia.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Berlangganan</title>
-      <link>https://inacode.id/berlangganan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://inacode.id/berlangganan/</guid>
-      <description>&amp;ldquo;dari zero ke hero #upgradeskill&amp;rdquo; Untuk mendapatkan informasi terbaru kursus online, tutorial serta update terbaru, yuk join milis inacode dengan mengisi form milis ini</description>
     </item>
     
   </channel>
