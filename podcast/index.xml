@@ -6,10 +6,21 @@
     <description>Recent content in Seri Podcast on Inacode Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Wed, 17 Jun 2020 21:42:13 +0800</lastBuildDate>
+    <copyright>100% love from Bali</copyright>
+    <lastBuildDate>Fri, 19 Jun 2020 22:45:13 +0800</lastBuildDate>
     
 	<atom:link href="https://inacode.id/podcast/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Podcast Seri 3</title>
+      <link>https://inacode.id/podcast/seri-3/</link>
+      <pubDate>Fri, 19 Jun 2020 22:45:13 +0800</pubDate>
+      
+      <guid>https://inacode.id/podcast/seri-3/</guid>
+      <description>Di seri podcast ketiga kali ini, InaCode berkesempatan ngobrol santai bareng Dedy Cds, seorang full stack developer yang bekerja di perusahaan Canada, full remote dari rumahnya di Tabanan, Bali.
+ </description>
+    </item>
     
     <item>
       <title>Podcast Seri 2</title>

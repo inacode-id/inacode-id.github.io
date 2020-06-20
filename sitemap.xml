@@ -16,34 +16,41 @@
   
   <url>
     <loc>https://inacode.id/authors/admin-inacode/</loc>
-    <lastmod>2020-06-17T21:42:13+08:00</lastmod>
+    <lastmod>2020-06-19T22:45:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://inacode.id/</loc>
-    <lastmod>2020-06-17T21:42:13+08:00</lastmod>
+    <lastmod>2020-06-19T22:45:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://inacode.id/podcast/seri-2/</loc>
-    <lastmod>2020-06-17T21:42:13+08:00</lastmod>
+    <loc>https://inacode.id/podcast/seri-3/</loc>
+    <lastmod>2020-06-19T22:45:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://inacode.id/podcast/</loc>
-    <lastmod>2020-06-17T21:42:13+08:00</lastmod>
+    <lastmod>2020-06-19T22:45:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://inacode.id/tags/umum/</loc>
+    <lastmod>2020-06-19T22:45:13+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/podcast/seri-2/</loc>
     <lastmod>2020-06-17T21:42:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
