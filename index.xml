@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>100% love from Bali</copyright>
-    <lastBuildDate>Fri, 19 Jun 2020 22:45:13 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inacode.id/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,17 @@
       <guid>https://inacode.id/tentang-kami/</guid>
       <description>di Inacode kamu bisa belajar mulai dari ilmu komputer, belajar koding, pemrograman, dan artikel terbaru seputar teknologi komputer, dan semua bisa kamu dapatkan secara GRATIS.
  Menjadi Kontributor Jika kamu tertarik untuk berbagi ilmu komputer, membuat artikel, video dan tutorial, atau menemukan kesalahan di website ini berupa typo atau informasi yang salah (misleading), silahkan hubungi kami melalui form dibawah untuk bergabung. Semua source code dari website ini dapat diakses melalui repo github.</description>
+    </item>
+    
+    <item>
+      <title>Pengantar GunDB, Database Tanpa Server Terpusat</title>
+      <link>https://inacode.id/artikel/gundb-database-tanpa-server/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://inacode.id/artikel/gundb-database-tanpa-server/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Bayangkan sebuah database yang bisa berjalan tanpa ada server terpusat, bisa tetap berfungsi normal ketika offline dan otomatis melakukan proses sinkronisasi tanpa developer pusing memikirkan &lt;em&gt;conflict resolution&lt;/em&gt;, &lt;em&gt;zero maintenance&lt;/em&gt;, nggak perlu devops, &lt;em&gt;sharding&lt;/em&gt;, &lt;em&gt;master/slave&lt;/em&gt;. Ada ? mari berkenalan dengan GunDB&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
