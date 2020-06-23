@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>100% love from Bali</copyright>
-    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inacode.id/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,15 @@
       <guid>https://inacode.id/tentang-kami/</guid>
       <description>di Inacode kamu bisa belajar mulai dari ilmu komputer, belajar koding, pemrograman, dan artikel terbaru seputar teknologi komputer, dan semua bisa kamu dapatkan secara GRATIS.
  Menjadi Kontributor Jika kamu tertarik untuk berbagi ilmu komputer, membuat artikel, video dan tutorial, atau menemukan kesalahan di website ini berupa typo atau informasi yang salah (misleading), silahkan hubungi kami melalui form dibawah untuk bergabung. Semua source code dari website ini dapat diakses melalui repo github.</description>
+    </item>
+    
+    <item>
+      <title>Podcast Seri 4</title>
+      <link>https://inacode.id/podcast/seri-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://inacode.id/podcast/seri-4/</guid>
+      <description>&lt;p&gt;Di seri keempat kali ini, InaCode berkesempatan ngobrol santai bareng Andre Ramayadi, seorang senior software engineering yang sudah malang melintang, pernah memiliki startup dan sekarang bekerja di Dana Indonesia.&lt;/p&gt;</description>
     </item>
     
     <item>

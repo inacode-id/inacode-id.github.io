@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>100% love from Bali</copyright>
-    <lastBuildDate>Fri, 19 Jun 2020 22:45:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inacode.id/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Podcast Seri 4</title>
+      <link>https://inacode.id/podcast/seri-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://inacode.id/podcast/seri-4/</guid>
+      <description>&lt;p&gt;Di seri keempat kali ini, InaCode berkesempatan ngobrol santai bareng Andre Ramayadi, seorang senior software engineering yang sudah malang melintang, pernah memiliki startup dan sekarang bekerja di Dana Indonesia.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Podcast Seri 3</title>

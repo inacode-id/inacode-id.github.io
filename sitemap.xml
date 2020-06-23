@@ -16,14 +16,35 @@
   
   <url>
     <loc>https://inacode.id/authors/admin-inacode/</loc>
-    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://inacode.id/</loc>
-    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/tags/podcast/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/podcast/seri-4/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/podcast/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,21 +78,7 @@
   </url>
   
   <url>
-    <loc>https://inacode.id/tags/podcast/</loc>
-    <lastmod>2020-06-19T22:45:13+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://inacode.id/podcast/seri-3/</loc>
-    <lastmod>2020-06-19T22:45:13+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://inacode.id/podcast/</loc>
     <lastmod>2020-06-19T22:45:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
