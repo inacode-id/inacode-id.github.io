@@ -53,17 +53,6 @@
     </item>
     
     <item>
-      <title>Mengapa Ilmu Komputer ?</title>
-      <link>https://inacode.id/artikel/mengapa-ilmu-komputer/</link>
-      <pubDate>Mon, 15 Jun 2020 13:26:13 +0800</pubDate>
-      
-      <guid>https://inacode.id/artikel/mengapa-ilmu-komputer/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Kamu ingin berkarir sebagai software engineer ? system administrator ? atau cyber security expert ? apapun itu, kamu harus punya dasar atau fundamental yang kuat di salah satu displin ilmu yang namanya ilmu komputer, atau istilah kerennya &lt;em&gt;computer science&lt;/em&gt;. Sayangnya tidak semua dari kita bisa kuliah di jurusan IT, tapi nggak usah mundur dulu. Kamu juga bisa belajar secara mandiri &lt;em&gt;self taught learner&lt;/em&gt;!&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-    </item>
-    
-    <item>
       <title>Podcast Seri Perdana</title>
       <link>https://inacode.id/podcast/seri-1/</link>
       <pubDate>Mon, 15 Jun 2020 13:26:13 +0800</pubDate>
@@ -74,9 +63,20 @@
     </item>
     
     <item>
+      <title>Mengapa Ilmu Komputer ?</title>
+      <link>https://inacode.id/artikel/mengapa-ilmu-komputer/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://inacode.id/artikel/mengapa-ilmu-komputer/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Kamu ingin berkarir sebagai software engineer ? system administrator ? atau cyber security expert ? apapun itu, kamu harus punya dasar atau fundamental yang kuat di salah satu displin ilmu yang namanya ilmu komputer, atau istilah kerennya &lt;em&gt;computer science&lt;/em&gt;. Sayangnya tidak semua dari kita bisa kuliah di jurusan IT, tapi nggak usah mundur dulu. Kamu juga bisa belajar secara mandiri &lt;em&gt;self taught learner&lt;/em&gt;!&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
       <title>Support Kami di Trakteer</title>
       <link>https://inacode.id/artikel/trakteer/</link>
-      <pubDate>Sat, 13 Jun 2020 13:26:13 +0800</pubDate>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://inacode.id/artikel/trakteer/</guid>
       <description>&lt;p&gt;Selain sebagai kontributor, kamu juga bisa mensupport kami dengan menjadi donatur. Cukup dengan sepuluh ribu rupiah, kamu sudah membantu kami mengelola InaCode menjadi platform belajar komputer di Indonesia.&lt;/p&gt;</description>
