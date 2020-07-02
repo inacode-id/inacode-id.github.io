@@ -15,22 +15,50 @@
   </url>
   
   <url>
-    <loc>https://inacode.id/kelas-online-blockchain-ethereum/</loc>
-    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://inacode.id/authors/admin-inacode/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://inacode.id/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/artikel/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/tags/blockchain/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/tags/menengah/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/artikel/pengantar-blockhain/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://inacode.id/kelas-online-blockchain-ethereum/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,21 +85,7 @@
   </url>
   
   <url>
-    <loc>https://inacode.id/artikel/</loc>
-    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://inacode.id/tags/database/</loc>
-    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://inacode.id/tags/menengah/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

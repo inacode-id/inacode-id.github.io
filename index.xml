@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>100% made with &amp;#10084; from Bali</copyright>
-    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inacode.id/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,8 +30,17 @@ Kelas belajar terdiri dari kelas gratis dan kelas berbayar dengan harga terjangk
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://inacode.id/tentang-kami/</guid>
-      <description>di Inacode kamu bisa belajar mulai dari ilmu komputer, belajar koding, pemrograman, dan artikel terbaru seputar teknologi komputer, dan semua bisa kamu dapatkan secara GRATIS.
- Menjadi Kontributor Jika kamu tertarik untuk berbagi ilmu komputer, membuat artikel, video dan tutorial, atau menemukan kesalahan di website ini berupa typo atau informasi yang salah (misleading), silahkan hubungi kami melalui form dibawah untuk bergabung. Semua source code dari website ini dapat diakses melalui repo di https://github.</description>
+      <description>di InaCode kami membuat berbagai konten seputar ilmu komputer, pemrograman, coding, open source. Konten berupa artikel, tutorial, e-book, workshop atau kelas online. Hampir semuanya bisa diakses secara gratis, dan beberapa konten premium dengan harga terjangkau.
+ Menjadi Kontributor Jika kamu tertarik untuk berbagi ilmu komputer, membuat artikel, video dan tutorial, workshop dan kelas online, atau menemukan kesalahan di website ini berupa typo atau informasi yang salah (misleading), silahkan hubungi kami melalui form dibawah untuk bergabung.</description>
+    </item>
+    
+    <item>
+      <title>Pengantar Blockchain</title>
+      <link>https://inacode.id/artikel/pengantar-blockhain/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://inacode.id/artikel/pengantar-blockhain/</guid>
+      <description>&lt;p&gt;Istilah blockchain saat ini sudah banyak terdengar dan banyak artikel yang membahas teknologi blockchain, tapi sayangnya masih banyak miskonsepsi mengenai teknologi blockchain. Di artikel ini, saya berusaha untuk menjelaskan dengan bahasa yang sederhana yang mudah-mudahan bisa dipahami oleh semua orang. Jika kamu sudah memahami konsep blockchain mungkin artikel ini bisa menjadi tambahan informasi yang sudah kamu pahami sebelumnya.&lt;/p&gt;</description>
     </item>
     
     <item>
