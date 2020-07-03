@@ -22,14 +22,12 @@
     </item>
     
     <item>
-      <title>Pengantar GunDB, Database Tanpa Server Terpusat</title>
+      <title>Pengantar GunDB, Database Tanpa Server</title>
       <link>https://inacode.id/artikel/gundb-database-tanpa-server/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://inacode.id/artikel/gundb-database-tanpa-server/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Bayangkan sebuah database yang bisa berjalan tanpa ada server terpusat, bisa tetap berfungsi normal ketika offline dan otomatis melakukan proses sinkronisasi tanpa developer pusing memikirkan &lt;em&gt;conflict resolution&lt;/em&gt;, &lt;em&gt;zero maintenance&lt;/em&gt;, nggak perlu devops, &lt;em&gt;sharding&lt;/em&gt;, &lt;em&gt;master/slave&lt;/em&gt;. Ada ? mari berkenalan dengan GunDB&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+      <description>&lt;p&gt;Bayangkan sebuah database yang bisa berjalan tanpa ada server terpusat, bisa tetap berfungsi normal ketika offline dan otomatis melakukan proses sinkronisasi tanpa developer pusing memikirkan &lt;em&gt;conflict resolution&lt;/em&gt;, &lt;em&gt;zero maintenance&lt;/em&gt;, nggak perlu devops, &lt;em&gt;sharding&lt;/em&gt;, &lt;em&gt;master/slave&lt;/em&gt;. Ada ? mari berkenalan dengan GunDB&lt;/p&gt;</description>
     </item>
     
   </channel>
