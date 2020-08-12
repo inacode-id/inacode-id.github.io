@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Inacode Indonesia</title>
+    <link>https://inacode.id/tags/git/</link>
+    <description>Recent content in Git on Inacode Indonesia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <copyright>100% made with &amp;#10084; from Bali</copyright>
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://inacode.id/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Menggunakan 2 akun atau lebih di satu komputer</title>
+      <link>https://inacode.id/artikel/mengganti-akun-git/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://inacode.id/artikel/mengganti-akun-git/</guid>
+      <description>&lt;p&gt;Ada saatnya kita harus menggunakan dua atau lebih akun git yang berbeda di satu komputer. Contoh kasus: 1 akun git untuk pekerjaan personal, 1 akun lainnya khusus untuk pekerjaan kantor. Berikut cara sederhana untuk menggunakan 2 akun git berbeda&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
