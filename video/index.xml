@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Segera Hadir di Channel Youtube on Inacode Indonesia</title>
-    <link>https://inacode.id/video/</link>
+    <link>https://inacode.dev/video/</link>
     <description>Recent content in Segera Hadir di Channel Youtube on Inacode Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>100% made with &amp;#10084; from Bali</copyright>
     
-	<atom:link href="https://inacode.id/video/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inacode.dev/video/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

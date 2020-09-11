@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seri Podcast on Inacode Indonesia</title>
-    <link>https://inacode.id/podcast/</link>
+    <link>https://inacode.dev/podcast/</link>
     <description>Recent content in Seri Podcast on Inacode Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>100% made with &amp;#10084; from Bali</copyright>
     <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://inacode.id/podcast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inacode.dev/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Podcast Seri 4</title>
-      <link>https://inacode.id/podcast/seri-4/</link>
+      <link>https://inacode.dev/podcast/seri-4/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://inacode.id/podcast/seri-4/</guid>
+      <guid>https://inacode.dev/podcast/seri-4/</guid>
       <description>&lt;p&gt;Di seri keempat kali ini, InaCode berkesempatan ngobrol santai bareng Andre Ramayadi, seorang senior software engineering yang sudah malang melintang, pernah memiliki startup dan sekarang bekerja di Dana Indonesia.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Podcast Seri 3</title>
-      <link>https://inacode.id/podcast/seri-3/</link>
+      <link>https://inacode.dev/podcast/seri-3/</link>
       <pubDate>Fri, 19 Jun 2020 22:45:13 +0800</pubDate>
       
-      <guid>https://inacode.id/podcast/seri-3/</guid>
+      <guid>https://inacode.dev/podcast/seri-3/</guid>
       <description>&lt;p&gt;Di seri podcast ketiga kali ini, InaCode berkesempatan ngobrol santai bareng Dedy Cds, seorang full stack developer yang bekerja di perusahaan Canada, full remote dari rumahnya di Tabanan, Bali.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Podcast Seri 2</title>
-      <link>https://inacode.id/podcast/seri-2/</link>
+      <link>https://inacode.dev/podcast/seri-2/</link>
       <pubDate>Wed, 17 Jun 2020 21:42:13 +0800</pubDate>
       
-      <guid>https://inacode.id/podcast/seri-2/</guid>
+      <guid>https://inacode.dev/podcast/seri-2/</guid>
       <description>&lt;p&gt;Di seri podcast kedua kali ini, InaCode berkesempatan ngobrol santai bareng Sandiarsa Rugita yang saat ini bekerja sebagai Software Engineer di VetVision dan juga creator dari Plumier Framework &lt;a href=&#34;https://github.com/plumier/plumier&#34;&gt;https://github.com/plumier/plumier&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Podcast Seri Perdana</title>
-      <link>https://inacode.id/podcast/seri-1/</link>
+      <link>https://inacode.dev/podcast/seri-1/</link>
       <pubDate>Mon, 15 Jun 2020 13:26:13 +0800</pubDate>
       
-      <guid>https://inacode.id/podcast/seri-1/</guid>
+      <guid>https://inacode.dev/podcast/seri-1/</guid>
       <description>&lt;p&gt;Di Podcast seri perdana ini kita berkesampatan ngobrol bareng I Wayan Vendy Wiranatha, pemuda asli Bali yang saat ini bekerja di sebuah perusahaan multi nasional di Bali sebagai R&amp;amp;D. Selamat mendengarkan!&lt;/p&gt;</description>
     </item>
     

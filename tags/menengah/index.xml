@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Menengah on Inacode Indonesia</title>
-    <link>https://inacode.id/tags/menengah/</link>
+    <link>https://inacode.dev/tags/menengah/</link>
     <description>Recent content in Menengah on Inacode Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>100% made with &amp;#10084; from Bali</copyright>
     <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://inacode.id/tags/menengah/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inacode.dev/tags/menengah/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pengantar Blockchain</title>
-      <link>https://inacode.id/artikel/pengantar-blockhain/</link>
+      <link>https://inacode.dev/artikel/pengantar-blockhain/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://inacode.id/artikel/pengantar-blockhain/</guid>
+      <guid>https://inacode.dev/artikel/pengantar-blockhain/</guid>
       <description>&lt;p&gt;Istilah blockchain saat ini sudah banyak terdengar dan banyak artikel yang membahas teknologi blockchain, tapi sayangnya masih banyak miskonsepsi mengenai teknologi blockchain. Di artikel ini, saya berusaha untuk menjelaskan dengan bahasa yang sederhana yang mudah-mudahan bisa dipahami oleh semua orang. Jika kamu sudah memahami konsep blockchain mungkin artikel ini bisa menjadi tambahan informasi yang sudah kamu pahami sebelumnya.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pengantar GunDB, Database Tanpa Server</title>
-      <link>https://inacode.id/artikel/gundb-database-tanpa-server/</link>
+      <link>https://inacode.dev/artikel/gundb-database-tanpa-server/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://inacode.id/artikel/gundb-database-tanpa-server/</guid>
+      <guid>https://inacode.dev/artikel/gundb-database-tanpa-server/</guid>
       <description>&lt;p&gt;Bayangkan sebuah database yang bisa berjalan tanpa ada server terpusat, bisa tetap berfungsi normal ketika offline dan otomatis melakukan proses sinkronisasi tanpa developer pusing memikirkan &lt;em&gt;conflict resolution&lt;/em&gt;, &lt;em&gt;zero maintenance&lt;/em&gt;, nggak perlu devops, &lt;em&gt;sharding&lt;/em&gt;, &lt;em&gt;master/slave&lt;/em&gt;. Ada ? mari berkenalan dengan GunDB&lt;/p&gt;</description>
     </item>
     

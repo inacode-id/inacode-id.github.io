@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Berita on Inacode Indonesia</title>
-    <link>https://inacode.id/tags/berita/</link>
+    <link>https://inacode.dev/tags/berita/</link>
     <description>Recent content in Berita on Inacode Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>100% made with &amp;#10084; from Bali</copyright>
     <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://inacode.id/tags/berita/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inacode.dev/tags/berita/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Support Kami di Trakteer</title>
-      <link>https://inacode.id/artikel/trakteer/</link>
+      <link>https://inacode.dev/artikel/trakteer/</link>
       <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://inacode.id/artikel/trakteer/</guid>
+      <guid>https://inacode.dev/artikel/trakteer/</guid>
       <description>&lt;p&gt;Selain sebagai kontributor, kamu juga bisa mensupport kami dengan menjadi donatur. Cukup dengan sepuluh ribu rupiah, kamu sudah membantu kami mengelola InaCode menjadi platform belajar komputer di Indonesia.&lt;/p&gt;</description>
     </item>
     
